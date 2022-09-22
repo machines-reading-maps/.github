@@ -19,4 +19,4 @@ Here you will find the code, tutorials, guidelines for MRM tools and experiments
 - [Integrated Recogito-mapKurator annotation tool](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki)
 - [Map Text Annotation Guidelines](https://github.com/machines-reading-maps/Tutorials-Newsletters/wiki/Map-Text-Annotation-Guidelines)
 
-Questions or comments? You can reach us @ReadingMaps on Twitter, or you'll find our contact info [over here](https://machines-reading-maps.github.io/).
+Questions or comments? You can reach us [@ReadingMaps](https://twitter.com/readingmaps?lang=en), or you'll find our contact info [over here](https://machines-reading-maps.github.io/).
