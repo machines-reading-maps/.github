@@ -9,7 +9,7 @@ Here you will find the code, tutorials, guidelines for MRM tools and experiments
 ### Code
 
 - **mapKurator-system** - A modularized method combining text spotting and entity linking using historical map scans as input. mapKurator output provides researchers with a structured dataset documenting the geospatial and image coordinates for the bounding polygon around any text on maps; the transcription of the text; and a prediction of links to external knowledge bases for named entities. 
-- **mrm-recogito-uk** - Custom version of the Regotio annotation platform. This interface includes new features specific to map annotation, and integrates basic mapKurator functionality.
+- **mrm-recogito-ui** - Custom version of the Regotio annotation platform. This interface includes new features specific to map annotation, and integrates basic mapKurator functionality.
 - **semantic-type-recommendation-api** - Retrieves semantically similar "types" of places (e.g. "hotel" or "school") for experimenting with semantic type labeling of features on historical maps.
 - **Rumsey-MRM** - Pipeline using mapKurator to process 57k georeferenced maps in the David Rumsey Historical Map Collection.
 - **luna-annotorious-client** - Annotation interface embedded in David Rumsey Historical Map Collection Luna Insight Browser. This interface allows users to edit mapKurator-generated map annotations and share new information about places labelled on maps.
