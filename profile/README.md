@@ -1,6 +1,6 @@
 ## Welcome to Machines Reading Maps
 
-Machines Reading Maps (MRM) is a collaboration between the University of Southern California Digital Library, Computer Science & Engineering Department at the University of Minnesota, and the Alan Turing Institute (UK). The project is funded by the National Endowment for the Humanities (NEH) in the US and the Arts and Humanities Research Council (AHRC) in the UK under the first round of NEH/AHRC New Directions for Digital Scholarship. We also are supported by David Rumsey.
+Machines Reading Maps (MRM) is a collaboration between the University of Southern California Digital Library, Computer Science & Engineering Department at the University of Minnesota, and the Alan Turing Institute (UK). Our project partners include the Library of Congress, the British Library, and the National Library of Scotland. The project is funded by the National Endowment for the Humanities (NEH) in the US and the Arts and Humanities Research Council (AHRC) in the UK under the first round of NEH/AHRC New Directions for Digital Scholarship. We also are supported by David Rumsey.
 
 MRM seeks to normalize map text as a new kind of data that can be used across the humanities and the heritage sector. 
 
