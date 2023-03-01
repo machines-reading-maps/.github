@@ -4,6 +4,9 @@ Machines Reading Maps (MRM) is a collaboration between the University of Souther
 
 MRM seeks to normalize map text as a new kind of data that can be used across the humanities and the heritage sector. 
 
+If you would like to know more about Machines Reading Maps, feel free to get in touch, or to check out our project's wiki.
+
+
 Here you will find the code, tutorials, guidelines for MRM tools and experiments. These include:
 
 ### Code
